@@ -12,7 +12,7 @@
 const byronamh = {
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Java', 'C++', 'PHP'], // in no particular order
   javascriptFrameworks: ['React', 'Angular', 'Sass', 'ES6+', 'Bootstrap', 'NodeJs', 'Express', 'Serverless', 'Jquery'],
-  databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Neo4j', 'AWS Redshift and Dynamo']
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Neo4j', 'AWS Redshift and Dynamo'],
   otherTools: ['Git', 'BASH', 'SHELL', 'AWS', 'GCP', 'Postaman', 'SCRUM savy', 'Wordpress'],
  }
 ```
@@ -20,7 +20,7 @@ const byronamh = {
 #### BIO
 - 📍  I'm a Guatemalan/Colombian senior computer science student working as a software developer since 2016
 - 🏢 I'm currently working at **[Healthcare.com](https://www.linkedin.com/company/healthcare-com/)**
-- ⚙️ In a normal day I use: `.ts`, `.pug`, `.scss`
+- ⚙️ In a regular day I use: `.ts`, `.pug`, `.scss`
 - ⚡️ Fun fact: I'm a great cook! In fact I almost studied to be a chef instead of a CS major
 
 
