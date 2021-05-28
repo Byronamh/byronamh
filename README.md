@@ -7,7 +7,7 @@
 
 
 ![Mys GitHub stats](https://github-readme-stats.vercel.app/api?username=byronamh&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byronamh&layout=compact)](https://github.com/byronamh/byronamh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byronamh&layout=compact&langs_count=8)](https://github.com/byronamh/byronamh)
 
 #### My technology Stack
 
