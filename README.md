@@ -20,7 +20,7 @@ const byronamh = {
   
   plannedProjects:[
     'Development of an AWS lambda for video format transpiling using ffmpeg in WASM format',
-    'Restructuring of [deepbowling](https://github.com/Byronamh/deepBowling.frontend) and its entity display engine, opting to use canvas vectors instead of Elements',
+    'Fork of deepbowling (see pins), to create a Rekognition visualizer opting to use canvas vectors instead of Elements',
     'Planning and coding of an web application that detects (and maybe translates) mayan glyphs using AWS rekognition'
   ]
  }
