@@ -14,8 +14,8 @@ Stats don't count private repo PR's or contributions for some reason
 
 ```typescript
 const byronamh = {
-  code: ['Typescript', 'C++', 'Javascript', 'CSS', 'Python', 'Java', 'HTML', 'PHP'], // in no particular order
-  frameworks: ['React', 'Angular', 'Sass', 'ES6+', 'Bootstrap', 'NodeJs', 'Express', 'Serverless', 'jQuery'],
+  code: ['Typescript', 'C++', 'Javascript (ES6+)', 'CSS', 'Python', 'Java', 'HTML', 'PHP'], // in no particular order
+  frameworks: ['React', 'Angular', 'Sass', 'Bootstrap', 'NodeJs', 'Express', 'Serverless', 'jQuery'],
   databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Neo4j', 'AWS Redshift and Dynamo', 'Firebase'],
   otherTools: ['Git', 'BASH', 'SHELL', 'AWS', 'GCP', 'Postaman', 'SCRUM savy', 'Wordpress'],
   
