@@ -28,10 +28,10 @@ const byronamh = {
 ```
 
 ### About me
-- 📍  I'm a Guatemalan/Colombian senior computer science student working as a software engineer since 2016
-- 🏢 I'm currently working at **[Healthcare.com](https://www.linkedin.com/company/healthcare-com/)**
-- ⚙️ In a regular day I use: `.ts`, `.pug`, `.scss`
+- 📍  I'm a Guatemalan/Colombian senior computer science student working as a software engineer since 2015
+- 🏢 I'm currently working at **[Yalo.com](https://www.linkedin.com/company/yalo/)**
+- ⚙️ In a regular day I use: `.ts`, `react`, `redux toolkit`, `webpack`
 - ⚡️ Fun fact: I'm a great cook! In fact I almost studied to be a chef instead of a CS major
 
 
-### Some projects im lowkey proud of:
+### Some projects im lowkey proud of👇:
