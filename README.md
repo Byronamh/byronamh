@@ -29,7 +29,7 @@ const byronamh = {
 
 ### About me
 - 📍  I'm a Guatemalan/Colombian senior computer science student working as a software engineer since 2015
-- 🏢 I'm currently working at **[Yalo.com](https://www.linkedin.com/company/yalo/)**
+- 🏢 I'm currently working at **[Paypal.com](https://www.linkedin.com/company/paypal)**
 - ⚙️ In a regular day I use: `.ts`, `react`, `redux toolkit`, `webpack`
 - ⚡️ Fun fact: I'm a great cook! In fact I almost studied to be a chef instead of a CS major
 
