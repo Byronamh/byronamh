@@ -2,14 +2,17 @@
 
 ### Find me on
 
+
 [![Linkedin: byronamh](https://img.shields.io/badge/-byronamh-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/byronamh/?locale=en_US)
 [![GitHub byronamh](https://img.shields.io/github/followers/byronamh?label=follow&style=social)](https://github.com/byronamh)
 
+<!---
+Hiding since my activity in public github is nil
 
 ![Mys GitHub stats](https://github-readme-stats.vercel.app/api?username=byronamh&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byronamh&layout=compact&langs_count=8)](https://github.com/byronamh/byronamh)
+-->
 
-Stats don't count private repo PR's or contributions for some reason
 ### My technology Stack
 
 ```typescript
